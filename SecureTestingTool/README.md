@@ -1,0 +1,1 @@
+ActionBar+ViewPager+ListView实现的Swiped view
